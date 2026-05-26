@@ -47,6 +47,8 @@ Here is the complete interactive sales dashboard built from the data:
 
 https://github.com/priyapatel96140/e-commerce-sales-analysis-power-bi-project/blob/main/e-commerce_sales_analysis_dashboard.png
 
+https://github.com/priyapatel96140/e-commerce-sales-analysis-power-bi-project/blob/main/sales-dashboard.png
+
 
 *Quick stats visible in the dashboard:*
 * **Total Sales:** $2.30M
