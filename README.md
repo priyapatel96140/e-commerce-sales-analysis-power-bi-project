@@ -45,7 +45,8 @@ The dataset consists of 9,994 individual transactional records containing order 
 ## Dashboard Output
 Here is the complete interactive sales dashboard built from the data:
 
-![E-commerce Sales Dashboard](image_b30d44.png)
+https://github.com/priyapatel96140/e-commerce-sales-analysis-power-bi-project/blob/main/e-commerce_sales_analysis_dashboard.png
+
 
 *Quick stats visible in the dashboard:*
 * **Total Sales:** $2.30M
